@@ -1,5 +1,5 @@
 {
-  "name": "Ponder09-Postal-Rate-Calculator",
+  "name": "Prove09-Postal-Rate-Calculator",
   "version": "0.3.0",
   "description": "node.js and express web application that determines the postage required for a single piece of retail first-class mail.",
   "engines": {
