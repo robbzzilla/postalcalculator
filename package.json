@@ -1,0 +1,26 @@
+{
+  "name": "Ponder09-Postal-Rate-Calculator",
+  "version": "0.3.0",
+  "description": "node.js and express web application that determines the postage required for a single piece of retail first-class mail.",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
